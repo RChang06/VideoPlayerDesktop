@@ -1,0 +1,12 @@
+# Ignore the compiler's mess
+build/
+bin/
+out/
+
+# Ignore the heavy FFmpeg binaries
+lib/
+include/
+
+# Ignore VS Code local settings
+.vscode/
+
